@@ -9,7 +9,8 @@ This is my submission for Project 1 of Term 2 of Udacity's Data Science Nano Deg
 **Files**
 Elite_Running_Analysis.ipynb - Jupyter notebook containing all the analysis
 
-**Packages imported**
+**Environment/Packages imported**
+This is a Python 3 project using Jupyter notebooks.
 pandas
 chardet
 ftfy
@@ -26,10 +27,12 @@ register_matplotlib_converters
 2. For some events, mean values for characteristics have changed over time (sprinters have tended to get heavier, average age of athletes in several events has increased).
 3. There is no direct relationship between the athletes' characteristics and their performance.
 
-The conclusion of this analysis is that the athlete characteristics examined cannot, by themselves, explain the general increase in athletes' performance. Other factors (such as training techniques, diet and professional status) may have a larger impact, but they are not examined in this analysis due to lack of available data.
+The conclusion of this analysis is that the athlete characteristics examined cannot, by themselves, explain the general increase in athletes' performance. Other factors (such as training techniques, diet and professional status) may have a larger impact, but they are not examined in this analysis.
 
-**Acknowledgements**
-Udacity Data Science Nano Degree course materials
+**Acknowledgements and References**
+The following have all been used in the preparation of this project.
+-Udacity Data Science Nano Degree course materials
+
 *Kaggle data sources*
 - https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results/downloads/120-years-of-olympic-history-athletes-and-results.zip/2
 - https://www.kaggle.com/jayrav13/olympic-track-field-results/downloads/olympic-track-field-results.zip/1
