@@ -14,7 +14,8 @@ This is a Python 3 project using Jupyter notebooks.
 pandas
 chardet
 ftfy
-matplotlib
+pyplot
+pylab
 datetime
 numpy
 math
