@@ -8,7 +8,7 @@ This is my submission for Project 1 of Term 2 of Udacity's Data Science Nano Deg
 
 **Files**
 Elite_Running_Analysis.ipynb - Jupyter notebook containing all the analysis
-
+Elite_Running_Analysis.html  - HTML export of the Jupyter notebook
 **Environment/Packages imported**
 This is a Python 3 project using Jupyter notebooks.
 pandas
@@ -21,6 +21,10 @@ math
 fuzzywuzzy
 fuzzywuzzy
 register_matplotlib_converters
+
+The Jupytert notebook uses toc2 from jupyter_contrib_nbextensions and the jupyter_nbextensions_configurator to insert a table of contents into the notebook. These are installed with:
+
+conda install -c conda-forge jupyter_contrib_nbextensions
 
 **Results**
 1. Elite athletes' performances have improved over the last 125 years in all running events.
