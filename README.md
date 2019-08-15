@@ -30,9 +30,10 @@ conda install -c conda-forge jupyter_contrib_nbextensions
 **Results**
 1. Elite athletes' performances have improved over the last 125 years in all running events.
 2. For some events, mean values for characteristics have changed over time (sprinters have tended to get heavier, average age of athletes in several events has increased).
-3. There is no direct relationship between the athletes' characteristics and their performance.
+3. Each event has a "sweet spot" which is a combination of characteristic values that tend to give good performance in a particular event.
+Neverthless, a wide range of athlete characteristics can produce top performances. Weight is the biggest factor in determining athlete performance for an event.
 
-The conclusion of this analysis is that the athlete characteristics examined cannot, by themselves, explain the general increase in athletes' performance. Other factors (such as training techniques, diet and professional status) may have a larger impact, but they are not examined in this analysis.
+Other factors (such as training techniques, diet) probably have a large impact, but they are not examined in this analysis.
 
 **Acknowledgements and References**
 The following have all been used in the preparation of this project.
