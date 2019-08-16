@@ -35,6 +35,9 @@ Neverthless, a wide range of athlete characteristics can produce top performance
 
 Other factors (such as training techniques, diet) probably have a large impact, but they are not examined in this analysis.
 
+**Deployment**
+A non-technical post summarising this work is published on Medium: "Analysing Elite Running Performance with Historical Data"
+
 **Acknowledgements and References**
 The following have all been used in the preparation of this project.
 -Udacity Data Science Nano Degree course materials
