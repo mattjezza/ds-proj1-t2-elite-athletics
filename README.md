@@ -42,7 +42,7 @@ Other factors (such as training techniques, diet) probably have a large impact, 
 
 **Deployment**
 
-A non-technical post summarising this work is published on Medium: "Analysing Elite Running Performance with Historical Data"
+A non-technical post summarising this work is published on Medium: "Analysing Elite Running Performance with Historical Data" (https://medium.com/@matt_chap/analysing-elite-running-performance-with-historical-data-b9c6bdd9c5d8)
 
 **Acknowledgements and References**
 
